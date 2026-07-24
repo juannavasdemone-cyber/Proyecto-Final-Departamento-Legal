@@ -13,6 +13,11 @@
 👉 [Ver video explicativo y demostrativo en YouTube](https://youtu.be/OKj27hbeaIA?si=nif9MgO4RzYuxrCe)
 
 ---
+## Requisitos
+
+- Python 3.11 o superior
+- JupyterLab
+- API Key de Google Gemini
 
 ## ⚙️ Instrucciones de Ejecución Paso a Paso
 
